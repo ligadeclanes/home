@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  font-family: 'Black Ops One', cursive;
+  background-image: url("img/fondo.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+header{
+
+  margin-top: 75px;
+}
+
+h2 span { 
+  margin-top: -300px;        /* Size of fixed header */
+  padding-bottom: 300px; 
+  display: block; 
+}
+
+#centrado{
+
+  text-align: center;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+footer{
+  background-color: rgb(155, 155, 155);
+  color: black;
+}
+
+
