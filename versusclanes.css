@@ -19,6 +19,7 @@ header{
   margin-top: 75px;
 }
 
+
 h2 span { 
   margin-top: -300px;        /* Size of fixed header */
   padding-bottom: 300px; 
@@ -29,6 +30,10 @@ h2 span {
 
   text-align: center;
 
+}
+
+h2{
+  color: yellow;
 }
 
 .center {
